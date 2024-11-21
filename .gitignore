@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.env/
+
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+ 
+*.jpeg
+*.txt
+*.json
+*.jpg
+*.png
+*.jfif
+*.webp
+
+images/*
+explosives_small_datset/*
+YOLO/runs/*
+explosives_dataset/*
+
+explosives_small_datset/*
