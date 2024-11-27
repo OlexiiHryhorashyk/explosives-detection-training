@@ -15,13 +15,11 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
  
-*.png
-*.jfif
-*.webp
+# *.png
+# *.jfif
+# *.webp
 *.pth
 images/*
 explosives_small_datset/*
 YOLO/runs/*
 
-*.jpeg
-*jpg
