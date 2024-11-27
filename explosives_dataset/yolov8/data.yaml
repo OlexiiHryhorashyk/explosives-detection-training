@@ -1,0 +1,14 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8  # number of classes
+names:
+  0: PMF 1
+  1: PMN 2
+  2: F1
+  3: RGD 5
+  4: RKG 3
+  5: TM 62
+  6: OZM 72
+  7: MON 50
