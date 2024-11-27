@@ -20,6 +20,5 @@ __pycache__/
 # *.webp
 *.pth
 images/*
-explosives_small_datset/*
-YOLO/runs/*
+# YOLO/runs/
 
