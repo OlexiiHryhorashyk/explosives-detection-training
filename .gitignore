@@ -15,9 +15,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
  
-# *.png
-# *.jfif
-# *.webp
 *.pth
 # images/*
 # YOLO/runs/
