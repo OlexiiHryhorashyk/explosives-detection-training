@@ -19,7 +19,7 @@ def get_color_from_class_name(class_name):
 
 
 # Define input image
-image_file = "ozm72_3.jpg"
+image_file = "pmn2_52.jpg"
 img = cv2.imread(image_file)
 
 results = model(img, stream=False)
